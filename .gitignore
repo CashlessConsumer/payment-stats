@@ -1,0 +1,22 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Cache and log files
+.cache/
+logs/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+venv/
+env/
+lib/
+include/
+bin/
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
